@@ -1,2 +1,2 @@
 # Sudoku_Android_App
-#Used openCv for android.
+Used openCv for android.
